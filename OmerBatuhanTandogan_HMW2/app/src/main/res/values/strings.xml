@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OmerBatuhanTandogan_HMW2</string><string name="tableName">devices</string>
+    <string name="databaseName">deviceDB</string>
+    <string name="idDeviceYearWarning">ID and Device Year should be integer.</string>
+    <string name="longPress">Long Press</string>
+    <string name="fling">Fling</string>
+    <string name="doubleTap">Double Tap</string>
+</resources>
